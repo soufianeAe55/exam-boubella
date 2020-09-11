@@ -1,0 +1,39 @@
+.header1 {
+ margin-bottom: 5px;
+ padding-left: 15px;
+ padding-right: 15px;
+ padding-top: 10px;
+ border-bottom: 2px solid #01579b
+;
+ }
+
+.logo {
+
+	font-weight: bolder;
+	color: #01579b !important;
+	font-size: 30px;
+}
+ul li a {
+
+ color: #01579b !important;
+ font-weight: bold;
+ margin-right: 20px;
+
+}
+ #perso
+ {
+   margin-bottom: 40px;
+   text-align: center;
+ }
+ #cmp
+ {
+   margin-bottom: 60px;
+   text-align: center;
+ }
+ .avatar
+ {
+ 	margin-left: 0px;
+ }
+ big {
+ 	font-weight: bolder;
+ }
